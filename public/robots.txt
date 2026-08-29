@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usetomcerto.com.br/sitemap.xml
