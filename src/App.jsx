@@ -25,6 +25,27 @@ import p12Img from "./assets/p12.jpg";
 import p13Img from "./assets/p13.jpg";
 import p14Img from "./assets/p14.jpg";
 import p15Img from "./assets/p15.jpg";
+import p16Img from "./assets/p16.jpg";
+import p17Img from "./assets/p17.jpg";
+import p18Img from "./assets/p18.jpg";
+import p19Img from "./assets/p19.jpg";
+import p20Img from "./assets/p20.jpg";
+import p21Img from "./assets/p21.jpg";
+import p22Img from "./assets/p22.jpg";
+import p23Img from "./assets/p23.jpg";
+import p24Img from "./assets/p24.jpg";
+import p25Img from "./assets/p25.jpg";
+import p26Img from "./assets/p26.jpg";
+import p27Img from "./assets/p27.jpg";
+import p28Img from "./assets/p28.jpg";
+import p29Img from "./assets/p29.jpg";
+import p30Img from "./assets/p30.jpg";
+import p31Img from "./assets/p31.jpg";
+import p32Img from "./assets/p32.jpg";
+import p33Img from "./assets/p33.jpg";
+import p34Img from "./assets/p34.jpg";
+import p35Img from "./assets/p35.jpg";
+import p36Img from "./assets/p36.jpg";
 
 const PRODUCT_IMAGES = {
   p1: p1Img,
@@ -42,6 +63,27 @@ const PRODUCT_IMAGES = {
   p13: p13Img,
   p14: p14Img,
   p15: p15Img,
+  p16: p16Img,
+  p17: p17Img,
+  p18: p18Img,
+  p19: p19Img,
+  p20: p20Img,
+  p21: p21Img,
+  p22: p22Img,
+  p23: p23Img,
+  p24: p24Img,
+  p25: p25Img,
+  p26: p26Img,
+  p27: p27Img,
+  p28: p28Img,
+  p29: p29Img,
+  p30: p30Img,
+  p31: p31Img,
+  p32: p32Img,
+  p33: p33Img,
+  p34: p34Img,
+  p35: p35Img,
+  p36: p36Img,
 };
 
 const FONT_IMPORT = `@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Work+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap');`;
@@ -71,11 +113,9 @@ const PRESET_TONES = [
   { hex: "#E8C39E", label: "Bege claro", depth: "claro", undertone: "neutra" },
   { hex: "#D9AE85", label: "Bege dourado", depth: "claro", undertone: "quente" },
   { hex: "#EAC6B0", label: "Bege rosado", depth: "claro", undertone: "fria" },
-  { hex: "#BEC1A3", label: "Oliva clara", depth: "claro", undertone: "oliva" },
   { hex: "#D2A679", label: "Areia", depth: "médio", undertone: "quente" },
   { hex: "#C08A5D", label: "Amêndoa", depth: "médio", undertone: "neutra" },
   { hex: "#BE8F68", label: "Bege acastanhado", depth: "médio", undertone: "fria" },
-  { hex: "#94997A", label: "Oliva média", depth: "médio", undertone: "oliva" },
   { hex: "#A6743F", label: "Caramelo", depth: "moreno", undertone: "quente" },
   { hex: "#8B5A2B", label: "Canela", depth: "moreno", undertone: "neutra" },
   { hex: "#96633E", label: "Avelã", depth: "moreno", undertone: "fria" },

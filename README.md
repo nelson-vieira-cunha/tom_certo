@@ -100,7 +100,7 @@ raiz do domínio e por isso não validava no Google AdSense).
 
 O catálogo é uma lista fixa, atualizada manualmente — não é um feed ao vivo.
 Preços e disponibilidade podem ter mudado desde a última checagem (indicada
-no topo da tela de resultados). A maioria dos produtos adicionados após o
-catálogo original não tem foto embutida (a busca de imagens não expõe URLs
-estáveis para hotlink), então os cards usam um gradiente com a inicial da
-marca — a foto real aparece ao abrir o link do produto.
+no topo da tela de resultados). Todos os produtos têm foto embutida em
+`src/assets/` (registrada em `PRODUCT_IMAGES`); se um produto novo for
+adicionado sem foto, o card usa automaticamente um gradiente com a inicial
+da marca como placeholder.
